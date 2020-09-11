@@ -1,0 +1,19 @@
+	Binary Search
+------------------------
+01. Binary Search
+02. Order agnostic binary search
+03. 1st and Last Occurrence of an element
+04. Count of an element in sorted array
+05. # of times an array is rotated.
+06. Find an element in rotated array.
+07. Searching in a nearly sorted array
+08. Floor and Ceil of an element.
+09. Next Letter
+10. Index of last 1 in a sorted array.
+11. Find the position of an element in the infinite sorted array.
+12. Minimum difference element in a sorted array.
+13. Bitonic array maximum element.
+14. Search in bitonic array.
+15. Search in row-wise col-wise sorted matrix.
+16. Find the element in the array that appears only once.
+17. Allocate minimum # of pages.
