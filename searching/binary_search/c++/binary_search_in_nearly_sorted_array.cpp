@@ -2,7 +2,10 @@
 using namespace std;
 
 /*
-    Find smallest alphabet or next alphabet greater than a given character.
+    Program to search in a nearly or almost sorted array.
+    --------------------------------------------------------------------------
+    -> Here all elements in the array are not sorted.
+    -> An element arr[i] could be at present at arr[i-1] or arr[i+1] position.
 */
 
 int search_nearly_sorted_array(int arr[], int N, int srch)
